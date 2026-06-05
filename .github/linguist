@@ -1,0 +1,14 @@
+[
+  {
+    "files": ["src/**", "public/**"],
+    "language": "TypeScript"
+  },
+  {
+    "files": ["*.md", "docs/**"],
+    "language": "Markdown"
+  },
+  {
+    "files": ["package.json", "tsconfig*.json"],
+    "language": "JSON"
+  }
+]
